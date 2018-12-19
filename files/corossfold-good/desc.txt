@@ -1,0 +1,1 @@
+Crossfold, k is kept, but hierarchial clustering factorization to achieve k is "arbitrary"
