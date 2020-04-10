@@ -1,2 +1,0 @@
-Egauge loads EuclideanClusterer with centroid computation fixed.
-Metrics are OK and compatible (only second to third position decimals differ) with the results published in the paper SIOTIEEE. However, points per cluster are calculated on the basis of appliances and not points. So, for example, for K = 1, there are 12663 appliances, which are 12663/67 = 189 points. Each point has 67 appliances.
