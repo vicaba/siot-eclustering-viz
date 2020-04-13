@@ -1,0 +1,5 @@
+Crossfold, non-random
+
+k = [1, 6]
+samples = [0.5, 1]
+iter = 200
