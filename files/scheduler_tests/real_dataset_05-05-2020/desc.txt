@@ -1,0 +1,8 @@
+Crossfold, non-random, dataport
+
+k = [1, 6]
+samples = [0.5, 1]
+iter = 200
+
+EuclideanClusterer, improvements = 1
+Scheduler, heuristic = square error
