@@ -1,0 +1,53 @@
+Experiment log
+--------------
+
+Entry 1:
+-------
+Folder name: real_dataset_05-05-2020
+Description:
+
+dataset: dataport
+sample generation: 
+  crossfold
+  k = [1, 6]
+  sample size = [0.5, 1]
+  iterations per sample size = 200
+clustering:
+  euclidean
+  improvements = 1
+scheduling: 
+  heuristic: square error
+
+Entry 2:
+-------
+Folder name: synthetic_08-05-2020
+Description:
+
+dataset: synthetic
+sample generation: 
+  crossfold
+  k = [1, 6]
+  sample size = [0.5, 1]
+  iterations per sample size = 200
+clustering:
+  euclidean
+  improvements = 1
+scheduling: 
+  heuristic: square error
+
+Entry 3:
+-------
+Folder name: synthetic_11-05-2020
+Description:
+
+dataset: synthetic
+sample generation: 
+  crossfold
+  k = [1, 6]
+  sample size = [0.5, 1]
+  iterations per sample size = 200
+clustering:
+  random
+  improvements = 1
+scheduling: 
+  heuristic: square error
