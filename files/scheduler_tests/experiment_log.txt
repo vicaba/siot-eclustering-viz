@@ -51,3 +51,20 @@ clustering:
   improvements = 1
 scheduling: 
   heuristic: square error
+
+Entry 4:
+-------
+Folder name: synthetic_20-05-2020
+Description:
+
+dataset: synthetic
+sample generation: 
+  crossfold
+  k = [1, 6]
+  sample size = [0.5, 1]
+  iterations per sample size = 200
+clustering:
+  euclidean
+  improvements = 100
+scheduling: 
+  heuristic: square error
