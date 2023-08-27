@@ -1,0 +1,1 @@
+Project to evaluate the results and performance of the clustering and rescheduling algorithms for the Social Internet of Energy. Related scientific manuscripts: https://ieeexplore.ieee.org/abstract/document/8784194 https://www.mdpi.com/1424-8220/20/13/3704
